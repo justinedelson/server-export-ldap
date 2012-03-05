@@ -1,0 +1,1 @@
+This file exists because the bundle plugin gets crabby when the target/classes directory doesn't exist.
